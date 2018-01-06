@@ -3,11 +3,11 @@ Multichar_Symbols
 %<n%>                ! noun 
 %<pl%>               ! plural 
 %{A%}		     ! archiphoneme placeholder
-%{Ă%}		     ! genetive archiphoneme
-%{м%}		     ! genetive plural morpheme
+%{Ă%}		     ! genitive archiphoneme
+%{м%}		     ! genitive plural morpheme
 %<nom%>              ! nominative 
 %<ins%>              ! instrumental 
-%<gen%>		     ! Genetive Case
+%<gen%>		     ! Genitive Case
 
 %>                   ! Граница морфемы
 
